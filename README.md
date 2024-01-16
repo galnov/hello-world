@@ -21,4 +21,4 @@ Nice, isn't it?`
 
 [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-![This is Gal Novik](GalNovik.jpg)
+![This is Gal Novik](Gal_Novik.png)
