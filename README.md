@@ -1,8 +1,12 @@
+This README file demonstrates usage of most Markdown Syntax elements.
+
+It's going to be fun! :tada:
+
 # Heading 1
 ## Heading 2
 ### Heading 3
 
-TODO:
+:hammer: TODO 
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Create a branch
@@ -12,7 +16,7 @@ TODO:
 
 ---
 
-Let's start with a few terms in a table format:
+:sunrise: Let's start with a few terms in a table format:
 
 | Term | Definition |
 | ----------- | ----------- |
@@ -48,6 +52,8 @@ Cool, isn't it?
 ~~This line shouldn't be here~~
 
 ---
+
+[List of emoji short codes](https://gist.github.com/rxaviers/7360908)
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
