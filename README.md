@@ -2,6 +2,8 @@ This README file demonstrates usage of most Markdown Syntax elements.
 
 Before we start - emojis! :sunny: :sunglasses: :tada: :joy: 
 
+---
+
 # Heading 1
 ## Heading 2
 ### Heading 3
