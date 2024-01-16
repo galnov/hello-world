@@ -53,9 +53,13 @@ Cool, isn't it?
 
 ---
 
+### Some Links
+
 [List of emoji short codes](https://gist.github.com/rxaviers/7360908)
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+### An Image
 
 ![This is Gal Novik](Gal_Novik.png) 
 
