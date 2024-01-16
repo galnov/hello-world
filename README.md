@@ -11,12 +11,12 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 ### Table of Contents
 - [TODO List](#hammer-TODO-List)
-- [Table](#Table-nerd_face)
-- [Text](#Bold-Italic-Strikethrough-Blockquote-loudspeaker-hear_no_evil)
-- [Lists](#Lists-one-two-three)
-- [Code](#Code-computer)
-- [Links](#Links-link)
-- [Images](#Images-camera)
+- [Table](#nerd_face-Table)
+- [Text](#loudspeaker-Bold-Italic-Strikethrough-Blockquote-hear_no_evil)
+- [Lists](#one-two-three-Lists)
+- [Code](#computer-Code)
+- [Links](#link-Links)
+- [Images](#camera-Images)
 
 
 ### :hammer: TODO List
@@ -28,7 +28,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - [ ] Merge to main
 
 
-### Table :nerd_face:
+### :nerd_face: Table
 
 | Term | Definition |
 | ----------- | ----------- |
@@ -36,7 +36,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 | branch | a lightweight movable pointer to a commit |
 
 
-### Bold Italic Strikethrough Blockquote :loudspeaker: :hear_no_evil:
+### :loudspeaker: Bold Italic Strikethrough Blockquote :hear_no_evil:
 
 **This is some bold text** :exclamation:
 
@@ -47,7 +47,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 > what does blockquote mean anyway? :question:
 
 
-### Lists :one: :two: :three:
+### :one: :two: :three: Lists
 
 1. How about
 2. an ordered
@@ -58,8 +58,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - one?
 
 
-### Code :computer:
-
+### :computer: Code
 `
 This is how you write some code.
 Pretty basic.
@@ -71,14 +70,14 @@ Cool, isn't it?
 ```
 
 
-### Links :link:
+### :link: Links
 
 [List of emoji short codes](https://gist.github.com/rxaviers/7360908)
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
-### Images :camera:
+### :camera: Images
 
 ![This is Gal Novik](Gal_Novik.png) 
 
