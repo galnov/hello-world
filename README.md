@@ -1,15 +1,19 @@
 # Heading 1
 ## Heading 2
 ### Heading 3
-### Another Heading 3, With a Custom ID {#custom-id}
 
-Here's a table:
+Let's start with a few terms
+commit
+: a Git object, a snapshot of your entire repository compressed into a SHA
+branch
+: a lightweight movable pointer to a commit
+
+Also in a table format:
 
 | Column1 | Column2 |
 | ----------- | ----------- |
-| Row 1 Col 1 | Row 1 Col 2 |
-| Row 2 Col 1 | Row 2 Col 2 |
-
+| commit | a Git object, a snapshot of your entire repository compressed into a SHA |
+| branch | a lightweight movable pointer to a commit |
 
 **This is some bold text**
 
@@ -31,6 +35,18 @@ Nice, isn't it?`
 ```
 And this is a fenced code block.
 ```
+
+~~This line shouldn't be here~~
+
+Time to ==highlight some text==
+
+TODO:
+- [x] Create a GitHub account
+- [x] Create a repository
+- [x] Create a branch
+- [ ] Update README
+- [ ] Pull request to main
+- [ ] Merge to main
 
 ---
 
