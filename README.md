@@ -2,15 +2,17 @@
 ## Heading 2
 ### Heading 3
 
-Let's start with a few terms
-commit
-: a Git object, a snapshot of your entire repository compressed into a SHA
-branch
-: a lightweight movable pointer to a commit
+TODO:
+- [x] Create a GitHub account
+- [x] Create a repository
+- [x] Create a branch
+- [ ] Update README
+- [ ] Pull request to main
+- [ ] Merge to main
 
-Also in a table format:
+Let's start with a few terms in a table format:
 
-| Column1 | Column2 |
+| Term | Definition |
 | ----------- | ----------- |
 | commit | a Git object, a snapshot of your entire repository compressed into a SHA |
 | branch | a lightweight movable pointer to a commit |
@@ -38,22 +40,11 @@ And this is a fenced code block.
 
 ~~This line shouldn't be here~~
 
-Time to ==highlight some text==
-
-TODO:
-- [x] Create a GitHub account
-- [x] Create a repository
-- [x] Create a branch
-- [ ] Update README
-- [ ] Pull request to main
-- [ ] Merge to main
+And this text should be highlighted: ==highlighted text==
 
 ---
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-<img src="Gal_Novik.png" alt="Gal1"/> <img src="Gal_Novik.png" alt="Gal2"/> <img src="Gal_Novik.png" alt="Gal3"/>
-<br>
 
 ![This is Gal Novik](Gal_Novik.png) 
 
