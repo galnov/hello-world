@@ -1,4 +1,4 @@
-This README file demonstrates usage of most Markdown Syntax elements.
+This README file demonstrates usage of most Markdown syntax elements.
 
 Before we start - emojis! :sunny: :sunglasses: :tada: :joy: 
 
@@ -8,6 +8,10 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 ## Heading 2
 ### Heading 3
 
+### Table of Contents
+- [TODO List](#TODO-List-hammer)
+- [Table](#Table-nerd_face)
+
 ### TODO List :hammer:
 - [x] Create a GitHub account
 - [x] Create a repository
@@ -16,22 +20,25 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - [ ] Pull request to main
 - [ ] Merge to main
 
----
-
-### A Few Terms in a Table Format :nerd_face:
+### Table :nerd_face:
 
 | Term | Definition |
 | ----------- | ----------- |
 | commit | a Git object, a snapshot of your entire repository compressed into a SHA |
 | branch | a lightweight movable pointer to a commit |
 
----
+
+### Bold Italic Strikethrough Blockquote :loudspeaker: :hear_no_evil:
 
 **This is some bold text** :exclamation:
 
 *and some italic text* :pizza:
 
+~~This line shouldn't be here~~ :scream:
+
 > what does blockquote mean anyway? :question:
+
+### Lists :one: :two: :three:
 
 1. How about
 2. an ordered
@@ -40,6 +47,8 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - and an
 - unordered
 - one?
+
+### Code :computer:
 
 `
 This is how you write some code.
@@ -51,17 +60,14 @@ And this is a fenced code block.
 Cool, isn't it?
 ```
 
-~~This line shouldn't be here~~ :scream:
 
----
-
-### Some Links
+### Links :link:
 
 [List of emoji short codes](https://gist.github.com/rxaviers/7360908)
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### An Image
+### An Image :camera:
 
 ![This is Gal Novik](Gal_Novik.png) 
 
