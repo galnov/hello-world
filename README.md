@@ -19,7 +19,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - [Images](#Images-camera)
 
 
-###:hammer: TODO List
+### :hammer: TODO List
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Create a branch
