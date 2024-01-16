@@ -1,12 +1,12 @@
 This README file demonstrates usage of most Markdown Syntax elements.
 
-It's going to be fun! :tada:
+Before we start - emojis! :sunny: :sunglasses: :tada: :joy: 
 
 # Heading 1
 ## Heading 2
 ### Heading 3
 
-:hammer: TODO 
+### TODO :hammer:
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Create a branch
