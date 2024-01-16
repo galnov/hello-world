@@ -10,12 +10,16 @@ TODO:
 - [ ] Pull request to main
 - [ ] Merge to main
 
+---
+
 Let's start with a few terms in a table format:
 
 | Term | Definition |
 | ----------- | ----------- |
 | commit | a Git object, a snapshot of your entire repository compressed into a SHA |
 | branch | a lightweight movable pointer to a commit |
+
+---
 
 **This is some bold text**
 
@@ -31,16 +35,17 @@ Let's start with a few terms in a table format:
 - unordered
 - one?
 
-`This is how you write some code.
-Nice, isn't it?`
+`
+This is how you write some code.
+Pretty basic.
+`
 
 ```
 And this is a fenced code block.
+Cool, isn't it?
 ```
 
 ~~This line shouldn't be here~~
-
-And this text should be highlighted: ==highlighted text==
 
 ---
 
