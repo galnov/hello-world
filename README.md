@@ -2,8 +2,8 @@
 ## Heading 2
 ### Heading 3
 
-** This is some bold text **
-*** and some italic text ***
+**This is some bold text**
+*and some italic text*
 > what does blockquote mean anyway?
 
 1. How about
