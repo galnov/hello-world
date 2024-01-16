@@ -52,6 +52,9 @@ TODO:
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-![This is Gal Novik](Gal_Novik.png) ![This is Gal Novik](Gal_Novik.png) ![This is Gal Novik](Gal_Novik.png) 
+<img src="Gal_Novik.png" alt="Gal1"/> <img src="Gal_Novik.png" alt="Gal2"/> <img src="Gal_Novik.png" alt="Gal3"/>
+<br>
+
+![This is Gal Novik](Gal_Novik.png) 
 
 
