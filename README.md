@@ -6,7 +6,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 ## Heading 2
 ### Heading 3
 
-### TODO :hammer:
+### TODO List :hammer:
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Create a branch
@@ -16,7 +16,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 ---
 
-:sunrise: Let's start with a few terms in a table format:
+### A few terms in a table format :nerd_face:
 
 | Term | Definition |
 | ----------- | ----------- |
@@ -25,11 +25,11 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 ---
 
-**This is some bold text**
+**This is some bold text** :exclamation:
 
-*and some italic text*
+*and some italic text* :pizza:
 
-> what does blockquote mean anyway?
+> what does blockquote mean anyway? :question:
 
 1. How about
 2. an ordered
@@ -49,7 +49,7 @@ And this is a fenced code block.
 Cool, isn't it?
 ```
 
-~~This line shouldn't be here~~
+~~This line shouldn't be here~~ :scream:
 
 ---
 
