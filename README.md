@@ -10,16 +10,16 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 
 ### Table of Contents
-- [TODO List](#TODO-List-hammer)
+- [TODO List](#hammer-TODO-List)
 - [Table](#Table-nerd_face)
 - [Text](#Bold-Italic-Strikethrough-Blockquote-loudspeaker-hear_no_evil)
 - [Lists](#Lists-one-two-three)
 - [Code](#Code-computer)
 - [Links](#Links-link)
-- [Images](#An-Image-camera)
+- [Images](#Images-camera)
 
 
-### TODO List :hammer:
+###:hammer: TODO List
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Create a branch
@@ -78,7 +78,7 @@ Cool, isn't it?
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
-### An Image :camera:
+### Images :camera:
 
 ![This is Gal Novik](Gal_Novik.png) 
 
