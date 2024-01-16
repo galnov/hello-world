@@ -8,9 +8,16 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 ## Heading 2
 ### Heading 3
 
+
 ### Table of Contents
 - [TODO List](#TODO-List-hammer)
 - [Table](#Table-nerd_face)
+- [Text](#Bold-Italic-Strikethrough-Blockquote-loudspeaker-hear_no_evil)
+- [Lists](#Lists-one-two-three)
+- [Code](#Code-computer)
+- [Links](#Links-link)
+- [Images](#An-Image-camera)
+
 
 ### TODO List :hammer:
 - [x] Create a GitHub account
@@ -19,6 +26,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - [ ] Update README
 - [ ] Pull request to main
 - [ ] Merge to main
+
 
 ### Table :nerd_face:
 
@@ -38,6 +46,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 > what does blockquote mean anyway? :question:
 
+
 ### Lists :one: :two: :three:
 
 1. How about
@@ -47,6 +56,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 - and an
 - unordered
 - one?
+
 
 ### Code :computer:
 
@@ -66,6 +76,7 @@ Cool, isn't it?
 [List of emoji short codes](https://gist.github.com/rxaviers/7360908)
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 ### An Image :camera:
 
