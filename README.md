@@ -18,7 +18,7 @@ Before we start - emojis! :sunny: :sunglasses: :tada: :joy:
 
 ---
 
-### A few terms in a table format :nerd_face:
+### A Few Terms in a Table Format :nerd_face:
 
 | Term | Definition |
 | ----------- | ----------- |
