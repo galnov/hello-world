@@ -19,3 +19,7 @@ git commit -am “<my commit message>”
 git log
 git push --set-upstream origin <my new branch name>
 ```
+
+---
+
+[Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
