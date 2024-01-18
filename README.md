@@ -79,6 +79,6 @@ Cool, isn't it?
 
 ### :camera: Images
 
-![This is Gal Novik](Gal_Novik.png) 
+![Gal Novik Image](Gal_Novik.png) 
 
 
