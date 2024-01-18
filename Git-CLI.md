@@ -3,8 +3,11 @@
 ## Initial Configuration
 `
 git config –global core.editor “nano”
+
 git config –global user.name “<my full name>”
+
 git config –global user.email “<my email address>”
+
 `
 
 ## Branch Creation, First Commit & Push
