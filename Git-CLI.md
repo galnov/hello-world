@@ -28,7 +28,13 @@ git merge <my new branch name>
 
 Fix merge conflicts in the conflicting files with an editor.
 Merge conflicts will be of the format:
-
+```
+<<<<<<< HEAD
+Text
+=======
+Conflicting Text
+>>>>>>> <branch name>
+```
 
 Once all conflicts are resolved, commit and push the updated file.
 ```
