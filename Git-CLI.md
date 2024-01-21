@@ -21,7 +21,15 @@ git push --set-upstream origin <my new branch name>
 ```
 
 ```
-git resolve conflicts
+## Merging and Handling Merge Conflicts
+```
+git checkout main
+git merge <my new branch name>
+```
+Fix merge conflicts in the conflicting files with an editor
+```
+git commit -am “fixing merge conflicts”
+git push
 ```
 
 ---
