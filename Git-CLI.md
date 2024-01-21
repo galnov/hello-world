@@ -25,9 +25,12 @@ git push --set-upstream origin <my new branch name>
 git checkout main
 git merge <my new branch name>
 ```
-Fix merge conflicts in the conflicting files with an editor.
 
-Creating a merge conflict for test purposes.
+Fix merge conflicts in the conflicting files with an editor.
+Merge conflicts will be of the format:
+
+
+Once all conflicts are resolved, commit and push the updated file.
 ```
 git commit -am “fixing merge conflicts”
 git push
