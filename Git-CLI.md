@@ -20,7 +20,6 @@ git log
 git push --set-upstream origin <my new branch name>
 ```
 
-```
 ## Merging and Handling Merge Conflicts
 ```
 git checkout main
