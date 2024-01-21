@@ -20,6 +20,12 @@ git log
 git push --set-upstream origin <my new branch name>
 ```
 
+## Merging and Handling Merge Conflicts
+```
+git checkout main
+git merge <my new branch name>
+```
+
 ---
 
 [Link to Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
