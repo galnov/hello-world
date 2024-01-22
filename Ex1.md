@@ -1,3 +1,4 @@
 | Team ID | Full Name | Date of Birth | Hobby | Favorite Emoji | Image |
 |---------|-----------|---------------|-------|----------------|-------|
 | 0 | Gal Novik | 22.5.1976 | Yoga | :four_leaf_clover: | ![Gal Novik](Gal_Novik.png) |
+| 2 | Yoav Biran | 30.06.2006 | PC games | 🥇: | ![Yoav Biran](Logo-team-2.png) |
