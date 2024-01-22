@@ -2,5 +2,4 @@
 |---------|-----------|---------------|-------|----------------|-------|
 | 0 | Gal Novik | 22.5.1976 | Yoga | :four_leaf_clover: | ![Gal Novik](Gal_Novik.png) |
 | 1 | Eliana Eldor | 21.05.2006 | Gym | :kissing_heart: | ![Eliana Eldor](pict.png) |
-
-
+| 2 | Yoav Biran | 30.06.2006 | PC games | 🥇: | ![Yoav Biran](Logo-team-2.png) |
